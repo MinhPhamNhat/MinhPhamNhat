@@ -2,7 +2,7 @@
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MinhPhamNhat/&title=Profile%20Views)
 
 
-<a href="https://codesandbox.io/u/mikeeowino">
+<!-- <a href="https://codesandbox.io/u/mikeeowino">
   <img align="left" alt="Mike Owino | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 <a href="https://twitter.com/mikeeowino">
@@ -10,14 +10,14 @@
 </a>
 <a href="https://discord.gg/VK4k3Br">
   <img align="left" alt="Mike's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+</a> -->
 
 Hi there, I'am Minh and I'am currently a Student at Ton Duc Thang University.
-
-- 🔭 I’m currently working on my project [GadgetsMag](https://github.com/gadgetsmag.github.io) <img align="right" alt="coding from home" src= "https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" height = 200 width = 300/>
-- 🌱 I’m currently learning Javascript, CSS,  Python & Jekyll
-- 👯 I’m looking to collaborate on [GadgetsMag](https://github.com/gadgetsmag.github.io)
-- 💬 Ask me about anything [here](https://github.com/MikeOwino/MikeOwino/issues)
+My recent Projects: 
+- <a href="#">MnM Real Estate Agency</a>
+- <a href="#">LYAF Fashion Store</a>
+- <a href="#">TDTU Student Social Portal</a>
+- <a href="#">MnM Real Estate Agency</a>
 <br>
 <br>
 <br>
