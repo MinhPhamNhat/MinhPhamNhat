@@ -2,15 +2,16 @@
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MinhPhamNhat/&title=Profile%20Views)
 
 
-<a href="https://codesandbox.io/u/mikeeowino">
-  <img align="left" alt="Mike Owino | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+<a href="https://www.linkedin.com/in/minh-ph%E1%BA%A1m-161434228/">
+  <img align="left" alt="" width="21px" src="https://img.icons8.com/external-justicon-flat-justicon/2x/external-linkedin-social-media-justicon-flat-justicon.png" />
 </a>
-<a href="https://twitter.com/mikeeowino">
-  <img align="left" alt="Mike Owino | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="">
+  <img align="left" alt="" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Mike's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+<a href="">
+  <img align="left" alt="" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
+<br>
 
 ### Hello World 👨‍💻
 Hi there, I'am Minh and I'am currently a Student at Ton Duc Thang University.
