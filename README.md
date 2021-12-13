@@ -27,7 +27,7 @@ My recent Projects:
 
 ### Skills 👨‍💻
 
-<img align="left" alt="GitHub" title="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
+<img align="left" alt="GitHub" title="GitHub" width="24px" src="https://iconscout.com/icon/github-159" />
 <img align="left" alt="Node.js" title="Node.js" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.2.0/icons/nodedotjs.svg" />
 <img align="left" alt=".NET" title=".NET" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.2.0/icons/dotnet.svg" />
 <img align="left" alt="PHP" title="PHP" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.2.0/icons/php.svg" />
