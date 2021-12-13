@@ -14,7 +14,7 @@
 <br>
 
 ### Hello World 👨‍💻
-Hi there, I'am Minh and I'am currently a Student at Ton Duc Thang University.
+Hi, I'am Minh and I'am currently a Student at Ton Duc Thang University.
 <br>
 I'm mainly a full-stack developer and I'm mostly working on Node.js
 <br>
