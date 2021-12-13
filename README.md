@@ -18,8 +18,6 @@ My recent Projects:
 - <a href="#">LYAF Fashion Store</a>
 - <a href="#">TDTU Student Social Portal</a>
 <br>
-<br>
-<br>
 
 ### Skills 👨‍💻
 
