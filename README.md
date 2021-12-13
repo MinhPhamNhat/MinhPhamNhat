@@ -35,6 +35,7 @@ Hi there, I'am Minh and I'am currently a Student at Ton Duc Thang University.
 <img align="left" alt="Java" title="Java" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/java.svg" />
 <img align="left" alt="HTML" title="HTML" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
 <img align="left" alt="CSS" title="CSS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
+<img align="left" alt=".NET" title=".NET" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.2.0/icons/dotnet.svg" />
 <img align="left" alt="Jupyter" title="Jupyter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/jupyter.svg" />
 <br>
 <br>
