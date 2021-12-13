@@ -42,7 +42,7 @@ Hi there, I'am Minh and I'am currently a Student at Ton Duc Thang University.
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhPhamNhat&layout=compact&theme=highcontrast)](https://github.com/mikeowino/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhPhamNhat&layout=compact&theme=highcontrast)](https://github.com/MinhPhamNhat/)
 ![MikeOwino's github stats](https://github-readme-stats.vercel.app/api?username=MinhPhamNhat&count_private=true&show_icons=true&theme=highcontrast)
 
 -----
