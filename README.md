@@ -16,6 +16,8 @@
 Hi there, I'am Minh and I'am currently a Student at Ton Duc Thang University.
 <br>
 I'm mainly a full-stack developer and I'm mostly working on Node.js
+<br>
+<br>
 My recent Projects: 
 - <a href="#">MnM Real Estate Agency</a>
 - <a href="#">LYAF Fashion Store</a>
