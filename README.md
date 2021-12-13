@@ -17,7 +17,6 @@ My recent Projects:
 - <a href="#">MnM Real Estate Agency</a>
 - <a href="#">LYAF Fashion Store</a>
 - <a href="#">TDTU Student Social Portal</a>
-- <a href="#">MnM Real Estate Agency</a>
 <br>
 <br>
 <br>
