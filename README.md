@@ -26,11 +26,11 @@ Hi there, I'am Minh and I'am currently a Student at Ton Duc Thang University.
 
 <img align="left" alt="GitHub" title="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
 <img align="left" alt="Node.js" title="Node.js" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.2.0/icons/nodedotjs.svg" />
-<img align="left" alt="Flask" title="Flask" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/flask.svg" />
 <img align="left" alt=".NET" title=".NET" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.2.0/icons/dotnet.svg" />
 <img align="left" alt="PHP" title="PHP" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.2.0/icons/php.svg" />
 <img align="left" alt="React" title="React" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/react.svg" />
 <img align="left" alt="Android" title="Android" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/android.svg" />
+<img align="left" alt="Flask" title="Flask" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/flask.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" />
 <img align="left" alt="HTML" title="HTML" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
 <img align="left" alt="CSS" title="CSS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
