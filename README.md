@@ -20,6 +20,7 @@ I'm mainly a full-stack developer and I'm mostly working on Node.js
 <br>
 <br>
 My recent Projects: 
+
 - <a href="#">MnM Real Estate Agency</a>
 - <a href="#">LYAF Fashion Store</a>
 - <a href="#">TDTU Student Social Portal</a>
@@ -44,6 +45,13 @@ My recent Projects:
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhPhamNhat&layout=compact&theme=highcontrast)](https://github.com/MinhPhamNhat/)
-![Minh Phạm Nhật's github stats](https://github-readme-stats.vercel.app/api?username=MinhPhamNhat&count_private=true&show_icons=true&theme=highcontrast)
+<table>
+<thead>
+<tr>
+<th><img align="center" src="https://github-readme-stats.vercel.app/api?username=MinhPhamNhat&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" alt="Phạm Nhật Minh's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=MinhPhamNhat&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"></th>
+<th><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhPhamNhat&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhPhamNhat&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"></th>
+</tr>
+</thead>
+</table>
+
 
