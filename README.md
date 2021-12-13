@@ -47,30 +47,11 @@ My recent Projects:
 
 <table>
 <thead>
-  
-<tr>
-  <td colspan="2" style="text-align: center; display:flex; justify-content: space-between;">
-      <img align="left" alt="GitHub" title="GitHub" width="24px" src="https://github.com/MinhPhamNhat/MinhPhamNhat/blob/main/icons/github.svg" />
-      <img align="left" alt="Node.js" title="Node.js" width="24px" src="https://github.com/MinhPhamNhat/MinhPhamNhat/blob/main/icons/nodejs.svg" />
-      <img align="left" alt=".NET" title=".NET" width="24px" src="https://github.com/MinhPhamNhat/MinhPhamNhat/blob/main/icons/dot-net.svg" />
-      <img align="left" alt="PHP" title="PHP" width="24px" src="https://github.com/MinhPhamNhat/MinhPhamNhat/blob/main/icons/php.svg" />
-      <img align="left" alt="React" title="React" width="24px" src="https://github.com/MinhPhamNhat/MinhPhamNhat/blob/main/icons/react.svg" />
-      <img align="left" alt="Android" title="Android" width="24px" src="https://github.com/MinhPhamNhat/MinhPhamNhat/blob/main/icons/android-studio.svg" />
-      <img align="left" alt="Flask" title="Flask" width="24px" src="https://github.com/MinhPhamNhat/MinhPhamNhat/blob/main/icons/flask.svg" />
-      <img align="left" alt="JavaScript" title="JavaScript" width="24px" src="https://github.com/MinhPhamNhat/MinhPhamNhat/blob/main/icons/javascript.svg" />
-      <img align="left" alt="HTML" title="HTML" width="24px" src="https://github.com/MinhPhamNhat/MinhPhamNhat/blob/main/icons/html.svg" />
-      <img align="left" alt="CSS" title="CSS" width="24px" src="https://github.com/MinhPhamNhat/MinhPhamNhat/blob/main/icons/css3.svg" />
-      <img align="left" alt="MongoDB" title="MongoDB" width="24px" src="https://github.com/MinhPhamNhat/MinhPhamNhat/blob/main/icons/mongodb.svg" />
-      <img align="left" alt="MySQL" title="MySQL" width="24px" src="https://github.com/MinhPhamNhat/MinhPhamNhat/blob/main/icons/mysql.svg" />
-      <img align="left" alt="Python" title="Python" width="24px" src="https://github.com/MinhPhamNhat/MinhPhamNhat/blob/main/icons/python.svg" />
-      <img align="left" alt="Jupyter" title="Jupyter" width="24px" src="https://github.com/MinhPhamNhat/MinhPhamNhat/blob/main/icons/jupyter.svg" />
-      <img align="left" alt="Java" title="Java" width="24px" src="https://github.com/MinhPhamNhat/MinhPhamNhat/blob/main/icons/java.svg" />
-  </td>
-</tr>
-<tr>
-<th><img align="center" src="https://github-readme-stats.vercel.app/api?username=MinhPhamNhat&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" alt="Phạm Nhật Minh's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=MinhPhamNhat&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"></th>
-<th><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhPhamNhat&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhPhamNhat&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"></th>
-</tr>
+ 
+  <tr>
+  <th><img align="center" src="https://github-readme-stats.vercel.app/api?username=MinhPhamNhat&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" alt="Phạm Nhật Minh's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=MinhPhamNhat&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"></th>
+  <th><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhPhamNhat&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhPhamNhat&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"></th>
+  </tr>
 </thead>
 </table>
 
