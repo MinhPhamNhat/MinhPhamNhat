@@ -25,7 +25,7 @@ Hi there, I'am Minh and I'am currently a Student at Ton Duc Thang University.
 ### Skills 👨‍💻
 
 <img align="left" alt="JavaScript" title="JavaScript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" />
-<img align="left" alt="Node.js" title="Node.js" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/nodedotjs.svg" />
+<img align="left" alt="Node.js" title="Node.js" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.2.0/icons/nodedotjs.svg" />
 <img align="left" alt="Python" title="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
 <img align="left" alt="Flask" title="Flask" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/flask.svg" />
 <img align="left" alt="GitHub" title="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
