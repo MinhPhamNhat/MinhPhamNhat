@@ -12,12 +12,14 @@
   <img align="left" alt="Mike's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a> -->
 
+### Hello World 👨‍💻
 Hi there, I'am Minh and I'am currently a Student at Ton Duc Thang University.
+<br>
+I'm mainly a full-stack developer and I'm mostly working on Node.js
 My recent Projects: 
 - <a href="#">MnM Real Estate Agency</a>
 - <a href="#">LYAF Fashion Store</a>
 - <a href="#">TDTU Student Social Portal</a>
-<br>
 
 ### Skills 👨‍💻
 
